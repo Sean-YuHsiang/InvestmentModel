@@ -714,5 +714,5 @@ answery = []
 
 root = mainpage()
 root.mainloop() 
-root.master.title("Investment Model") 
+root.master.title("Investment Model")      
 
