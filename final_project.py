@@ -1,4 +1,4 @@
- import csv
+import csv
 import numpy as np
 from scipy.optimize import minimize
 import tkinter as tk
